@@ -6,7 +6,7 @@ CodePath Prework project
 ### App Description
 This is a small app where I practiced basic swift commands as prework for the Mobile Development Course with Code Path 
 
-### App Walk-though
+### App Walk-through
 
 <img src="https://user-images.githubusercontent.com/98974263/185776051-0c1adcee-7679-405d-8c6b-26a4347d8d4b.gif" width=200><br>
 
